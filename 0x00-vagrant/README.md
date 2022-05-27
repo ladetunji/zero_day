@@ -1,2 +1,2 @@
 # About
-More info about the vagrant process
+More info about the vagrant processes
